@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swift-arcadia-381216",
+  "private_key_id": "3ad8a777505b46cbab3bfd2ca2183f2742834a65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDR71hyYd7g/ahN\nRlW3HmtPGpmReCJyuvCzomXknp++sE4aiE/b8Omf4GaxKBfMU2JXgNOoABfhHHm8\nEH1lptIkQ+lelpZCquHfm++xTebFmkcbZ4gEjlzR95H9yTpU2kyLPPaxHbJ1GlV9\nxXve3XNtcs4AmI7JlOgUkMjEgnGS5n7Z3uTQGOO5AHqjKNG1STb6NPeH7FjTMYwH\nJweDNT49yOWOQAsYvXDqKqvj7zHzf/P+utAUCx9k1pAp7lGYF8dSzR6/bj1MQdbr\nbUY4uHcXdwjkCsvE9mMcGyoiqQ1Aarr4vdSsfNWi3bVXs9xfiO53hfPDX25uFkR8\nV1Myumx3AgMBAAECggEAOUh4V1mqQbUlJ9TBzcIwoLiO37kqmSi2RiXRbMT1rMgZ\nv7ajJ84ASX4nNz7L45Z7FopR9pzz5xpogy7ysHqJC5k2Q/eOD6nmEShRCo3JovCa\nZ3lkDW41GJvXi6rNTlr0mOetHp4OVFK3siZhSuodNWemm1YFXC7T9syc47X+PIlG\n3TZ+VTTGXwkuwdCTyLu7izf5IyqE7d9QLqhXvFsHbb4phw1NQ+E25CPbubE7IYqS\nKDF9uOVzAius4aujV6/CNqSEg+Gu9DJMPSY7hYYbxLPmYWxGwAPhREjDLPBfXT8J\nJwrc0MVCnyzt/ZrII7y3AgGc1kn2HnwMeoX5Cr2S9QKBgQDqQk5JQi9PpgivxR/d\nIYQwWWDgrOzlnIuTZag4hReFDh48lGcotfz6Vbcxz989qudBuxcmYBPyuUVECpeS\nPhnIfHLcSRFMn3FqTAZTWKZOFdyNP7vTjq7cwyOqxXKAduJfVn/wTlr4AIZyo4QE\n63sLscj7enYJmbe27Odzs9XgOwKBgQDlayGNm6dnMnnYnEOVc8nGVIEU+JCLkOQO\nuGg/o8t0TW14lCpZqyHTzj1ok6TrIcimqFc9aeh5Qd9RKBXgNWDeOkXM3iJvMQe0\nh/JCXdUOhI+Q6t5ArlJUP1sKyBQx9bKrW0sHWnHmKPjL1UuNomHALOjUAqOSC+A/\nDy0rEKc89QKBgQCP+MxQbeLR2sM/87DPoQezB1to+h5mR73oivPGONXpqnGe3b5A\n4QhnekKq1IzpQ535YdiqdyYLaR5O4Quij5QdCY82H5oIM33qzGqe0r7zArCYBvGS\n5gBGIZBMJilnFqmt2mWq9R0ninsW/bPnqinnWA6jr/HXmKe2PwdIrt/lfQKBgQCu\nmkhhE/PmMJ5XYyZ0mjkYvru3EC5CajWHloWQ2cJAc6U7Pdi1ge8u2ioWazf61C13\n2Wr8DJynnKCvjYiIqVdeCo+RCga/BVvN5CFWrT8321/AdWBNbd6uy8EohXoJQ+uF\nSufhYs6I0un3iBAGbW1j60oQASooPu2eUJiZzATb+QKBgBpOSlkM0RUBXSc3II8U\njquBUecwkbzD9gF7wg7iDPINRGlx4zMYj47UYWvgDHe5Aal9qy8xBXvbRVQq8L1P\n5hZSW4mdGQDdvPl3GJe4+HKWXLdscUi/ISpB5hqCvfwCC44qwnL2IZcGTqK/AlSu\nxS0P8cQhxffxLbZTncSQqwbQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "azan-339@swift-arcadia-381216.iam.gserviceaccount.com",
+  "client_id": "107701985029442282847",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azan-339%40swift-arcadia-381216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
